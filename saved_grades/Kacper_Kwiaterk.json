@@ -1,0 +1,24 @@
+{
+    "name": "Kacper",
+    "lastname": "Kwiaterk",
+    "subjects": {
+        "polski": [
+            3,
+            4,
+            5
+        ],
+        "matematyka": [
+            3
+        ],
+        "angielski": [
+            2
+        ],
+        "informatyka": [
+            6,
+            4
+        ],
+        "chemia": [
+            5
+        ]
+    }
+}
